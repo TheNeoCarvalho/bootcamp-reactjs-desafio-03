@@ -6,6 +6,7 @@
   top: 3%;
   height: 94%;
   border-radius: 5px;
+  overflow: auto;
 }
 
 .left-bar p {
